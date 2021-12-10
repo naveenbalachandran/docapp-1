@@ -1,4 +1,4 @@
-# docapp
+# Docapp
 In today's digital world, most of our daily needs like shopping are made much easier and convenient by a variety of apps. But the time when a person requires the most assistance is when he/she is sick, and there aren't any good apps to help with that.
 DocApp Helps You To:
 - Access immediate phone consultations with doctors
