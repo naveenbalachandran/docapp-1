@@ -153,7 +153,7 @@ class _ScreenDetailsState extends State<ScreenDetails> {
                             IconButton(
                               icon: Icon(Icons.phone,
                                   color: AppColor.purpleLight),
-                              onPressed: () => launch("tel://9447663336"),
+                              onPressed: () => launch("tel://94476"),
                             ),
                             SizedBox(
                               width: 10,
@@ -161,7 +161,7 @@ class _ScreenDetailsState extends State<ScreenDetails> {
                             IconButton(
                               icon: Icon(Icons.chat_bubble,
                                   color: AppColor.lightOrange),
-                              onPressed: () => launch("sms:+9207073812"),
+                              onPressed: () => launch("sms:+92070"),
                             ),
                             SizedBox(
                               width: 10,
